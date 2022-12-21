@@ -1,7 +1,7 @@
 <!--
 Copyright (C) 1998 - 2022 Daniel Stenberg, <daniel@haxx.se>, et al.
 
-SPDX-License-Identifier: curl
+SPDX-License-Identifier: curl 
 -->
 
 # [![curl logo](https://curl.se/logo/curl-logo.svg)](https://curl.se/)
